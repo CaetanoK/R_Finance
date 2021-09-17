@@ -7,5 +7,5 @@ Arquivos em R que tratam de economia e finanças
 ## Precificação_E_Curva.R
 - Demonstra a ETTJ Brasileira, importa informações sobre títulos públicos e precifica os instrumentos de renda-fixa, com as devidas medidas de risco.
 
-## PME.R
+## PMC.R
 - Pesquisa Mensal de Comércio e projeções através da modelagem ARIMA
