@@ -9,3 +9,6 @@ Arquivos em R que tratam de economia e finanças
 
 ## PMC.R
 - Pesquisa Mensal de Comércio e projeções através da modelagem ARIMA
+
+## mercadoGlobal.R
+- Comparativo entre os principais indices de ações mundiais, com enfoque no choque do Coronavírus em 2020.
